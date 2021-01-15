@@ -6,10 +6,10 @@ script is well commented
 ## Installation
 
 ### OS X & Linux: 
-#### up and running
+up and running
 
 
 ### Windows:
-#### support for windows not yet implemented
+support for windows not yet implemented
 
 
